@@ -14,7 +14,7 @@ A sleek, modern stopwatch web application built with HTML, CSS, and JavaScript. 
 
 ## 🚀 Demo
 
-Check out the live demo [here](https://your-demo-url-here.com)!
+Check out the live demo [here](https://v-dav.github.io/stopwatch/)!
 
 ## 🛠️ Technologies Used
 
